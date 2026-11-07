@@ -33,7 +33,7 @@ bash
 git clone https://github.com/suyshx31/Deepfake-Detection-Extension.git
 cd Deepfake-Detection-Extension
 
-# 2. (Optional) create a virtual environment
+# 2. Create a virtual environment(Optional)
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 
